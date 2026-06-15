@@ -1,0 +1,6 @@
+{
+  "name": "하수처리 수질 모니터링 대시보드",
+  "description": "부산광역시 지역별 하수 유입/방류량 및 BOD, COD, SS, T-N, T-P 수질 실시간 모니터링 및 선별 필터 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
